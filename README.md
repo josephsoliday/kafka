@@ -7,4 +7,7 @@ Repository for Kafka examples
     ```bash
     docker-compose up -d
     ```
-2. Install the [Tools for Apache Kafka](https://marketplace.visualstudio.com/items?itemName=jeppeandersen.vscode-kafka) extension
+2. Install Python dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
